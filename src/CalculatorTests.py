@@ -1,9 +1,9 @@
 
 import unittest
+
 from Calculator import Calculator
 from CsvReader import CsvReader
 from pprint import pprint
-
 
 class MyTestCase(unittest.TestCase):
     def setUp(self) -> None:
